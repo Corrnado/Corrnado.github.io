@@ -11,23 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.A. in Mathematics, Boston University, 2011-2014
-* M.S. in Statistics, The George Washington University, 2015-2017
-* Ph.D. in Statistics, University of Connecticut, 2019-2020
 * Ph.D. in Computer Science Engineering, University of Connecticut, 2020-Present
+* Ph.D. in Statistics, University of Connecticut, 2019-2020
+* M.S. in Statistics, The George Washington University, 2015-2017
+* B.A. in Mathematics, Boston University, 2011-2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teachers College, Columbia University. Summer 2019
+  * Data Engineer Intern
+  * Supervisor: Ryan Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Utofun, New York City. 2018-2019
+  * Data Analyst
+<!--   
 Skills
 ======
 * Skill 1
@@ -57,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
