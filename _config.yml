@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bingjun's Website"
 title_separator          : "-"
 name                     : &name "Bingjun Li"
-description              : &description "Ph.D. student in CS at University of Connecticut"
+description              : &description "Ph.D. student in CSE at University of Connecticut"
 url                      : https://www.bingjunli.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Corrnado.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bingjun Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in CS at University of Connecticut with research interest in statistical learning."
+  bio              : "Ph.D. student in CSE at University of Connecticut with research interest in statistical learning."
   location         : "Storrs, Connecticut"
   employer         :
   pubmed           : 
