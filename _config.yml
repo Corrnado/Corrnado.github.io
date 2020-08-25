@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Bingjun's Website"
 title_separator          : "-"
 name                     : &name "Bingjun Li"
-description              : &description "Ph.D. student in Computer Science at University of Connecticut"
-url                      : https://Corrnado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. student in CS at University of Connecticut"
+url                      : https://www.bingjunli.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Corrnado.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bingjun Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in computer science at University of Connecticut with research interest in statistical learning."
+  bio              : "Ph.D. student in CS at University of Connecticut with research interest in statistical learning."
   location         : "Storrs, Connecticut"
   employer         :
   pubmed           : 
